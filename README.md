@@ -437,7 +437,7 @@ This project demonstrates practical implementation of:
 
 Passionate about building innovative, secure, and user-focused applications using modern technologies. Focused on clean code, problem-solving, continuous learning, and turning ideas into practical digital solutions.
 
-**Tech Stack:** Python • Flask • Java • JavaScript • PostgreSQL • MySQL • Docker • Git
+**Tech Stack:** Python • Java • JavaScript • PostgreSQL • MySQL • Docker • Git
 
 **Core Values:** Innovation • Code Quality • Security • Ownership • Continuous Learning
 
