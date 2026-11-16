@@ -430,24 +430,12 @@ This project demonstrates practical implementation of:
 - Cloud deployment using Render.
 - Persistent file storage configuration.
 
-## 👨‍💻 Developer
+## 👨‍💻 About the Developer
 
-**Lakshya Kansal**
+\<p align="center">   \<img src="[https://img.shields.io/badge/Developer-Lakshya_Kansal-2563EB?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Developer-Lakshya_Kansal-2563EB?style=for-the-badge\&logo=github\&logoColor=white)" alt="Developer"/>   \<br/>\<br/>   \<strong>Lakshya Kansal\</strong>   \<br/>   Full-Stack Developer | MCA Student | Software Development Enthusiast   \<br/>\<br/>   Passionate about building practical, user-focused applications by combining backend engineering, modern web technologies, database management, and AI-driven solutions. \</p>
 
-Full-stack application development | Python | Flask | Database Management
+### Technical Expertise
 
-DocuFlow demonstrates the integration of document-processing libraries, backend application logic, user management, and cloud deployment into a unified web platform.
-## 📄 DocuFlow
+\<p align="center">   \<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" alt="Python"/>   \<img src="[https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)" alt="Flask"/>   \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)" alt="JavaScript"/>   \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)" alt="HTML5"/>   \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)" alt="CSS3"/>   \<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)" alt="PostgreSQL"/>   \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)" alt="MySQL"/>   \<img src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)" alt="Docker"/>   \<img src="[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)" alt="Git"/> \</p>
 
-\<p align="center">   \<strong>DOCUMENT CONVERSION, REIMAGINED.\</strong>   \<br/>\<br/>   Convert seamlessly. Manage securely. Stay productive.   \<br/>\<br/>   \<img src="[https://img.shields.io/badge/Built_with-Python\_&\_Flask-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Built_with-Python_&_Flask-3776AB?style=flat-square\&logo=python\&logoColor=white)" alt="Built with Python and Flask"/>   \<img src="[https://img.shields.io/badge/Powered_by-pdf2docx\_&\_LibreOffice-2563EB?style=flat-square](https://img.shields.io/badge/Powered_by-pdf2docx_&_LibreOffice-2563EB?style=flat-square)" alt="Powered by pdf2docx and LibreOffice"/> \</p>
-
-\<p align="center">   Developed by \<strong>Lakshya Kansal\</strong>   \<br/>   \<sub>Turning everyday document tasks into a simpler digital experience.\</sub> \</p>
-
----
-
-\<p align="center">
-&#x20; \<sub>© 2026 DocuFlow. All rights reserved.\</sub>
-&#x20; \<br/>
-&#x20; \<sub>Made with ❤️ using Python and Flask.\</sub>
-\</p>
 
