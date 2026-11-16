@@ -1,25 +1,12 @@
 # 📄 DocuFlow — Professional PDF & Word Converter
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/DocuFlow-Document_Conversion-2563EB?style=for-the-badge&logo=files&logoColor=white](https://img.shields.io/badge/DocuFlow-Document_Conversion-2563EB?style=for-the-badge\&logo=files\&logoColor=white)" alt="DocuFlow"/>
-&#x20; \<img src="[https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" alt="Python"/>
-&#x20; \<img src="[https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white](https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge\&logo=flask\&logoColor=white)" alt="Flask"/>
-&#x20; \<img src="[https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)" alt="PostgreSQL"/>
-&#x20; \<img src="[https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)" alt="Docker"/>
-&#x20; \<img src="[https://img.shields.io/badge/Deployment-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black](https://img.shields.io/badge/Deployment-Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)" alt="Render"/>
-\</p>
+<p align="center">   <strong>Convert documents. Simplify your workflow.</strong><br/>   A secure, web-based document conversion platform for converting PDF files to editable Word documents and Word documents to PDF. </p>
 
-\<p align="center">
-&#x20; \<strong>Convert Documents. Manage Files. Work Smarter.\</strong>
-&#x20; \<br/>
-&#x20; A full-stack document conversion platform designed to make PDF and Word file management simple, secure, and accessible.
-\</p>
+<p align="center">   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11+"/>   <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>   <img src="https://img.shields.io/badge/PDF2DOCX-Conversion-E34F26?style=for-the-badge" alt="PDF2DOCX"/>   <img src="https://img.shields.io/badge/Word-DOCX-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="DOCX"/>   <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>   <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>   <img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/> </p>
 
-\<p align="center">
-&#x20; \<b>PDF → WORD\</b> &nbsp; | &nbsp; \<b>WORD → PDF\</b> &nbsp; | &nbsp; \<b>SECURE FILE MANAGEMENT\</b>
-\</p>
-
----
+<p align="center">
+  <em>Upload. Convert. Download. All in one place.</em>
+</p>
 
 ## 📌 About the Project
 
