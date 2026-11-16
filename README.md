@@ -437,9 +437,17 @@ This project demonstrates practical implementation of:
 Full-stack application development | Python | Flask | Database Management
 
 DocuFlow demonstrates the integration of document-processing libraries, backend application logic, user management, and cloud deployment into a unified web platform.
+## 📄 DocuFlow
 
-<p align="center">   \<strong>📄 DOCUFLOW\</strong>   \<br/>   \<em>Convert. Manage. Simplify.\</em>   \<br/>\<br/>   Built with Python and Flask. \</p>
+\<p align="center">   \<strong>DOCUMENT CONVERSION, REIMAGINED.\</strong>   \<br/>\<br/>   Convert seamlessly. Manage securely. Stay productive.   \<br/>\<br/>   \<img src="[https://img.shields.io/badge/Built_with-Python\_&\_Flask-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Built_with-Python_&_Flask-3776AB?style=flat-square\&logo=python\&logoColor=white)" alt="Built with Python and Flask"/>   \<img src="[https://img.shields.io/badge/Powered_by-pdf2docx\_&\_LibreOffice-2563EB?style=flat-square](https://img.shields.io/badge/Powered_by-pdf2docx_&_LibreOffice-2563EB?style=flat-square)" alt="Powered by pdf2docx and LibreOffice"/> \</p>
+
+\<p align="center">   Developed by \<strong>Lakshya Kansal\</strong>   \<br/>   \<sub>Turning everyday document tasks into a simpler digital experience.\</sub> \</p>
 
 ---
 
-<p align="center">   \<sub>© 2026 DocuFlow. All rights reserved.\</sub> \</p>
+\<p align="center">
+&#x20; \<sub>© 2026 DocuFlow. All rights reserved.\</sub>
+&#x20; \<br/>
+&#x20; \<sub>Made with ❤️ using Python and Flask.\</sub>
+\</p>
+
