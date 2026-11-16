@@ -430,8 +430,20 @@ This project demonstrates practical implementation of:
 - Cloud deployment using Render.
 - Persistent file storage configuration.
 
-## 👨‍💻 Developer
-Lakshya Kansal
 
-DocuFlow is a full-stack project demonstrating document processing, Flask application development, authentication, database integration, file management, and cloud deployment.
+## 👨‍💻 Developer
+
+**Lakshya Kansal** | Full-Stack Developer & Software Engineer
+
+Passionate about building innovative, secure, and user-focused applications using modern technologies. Focused on clean code, problem-solving, continuous learning, and turning ideas into practical digital solutions.
+
+**Tech Stack:** Python • Flask • Java • JavaScript • PostgreSQL • MySQL • Docker • Git
+
+**Core Values:** Innovation • Code Quality • Security • Ownership • Continuous Learning
+
+<p align="center">
+  <strong>BUILD WITH PURPOSE. INNOVATE WITH IMPACT.</strong>
+  <br/>
+  <sub>Designed & Developed by Lakshya Kansal</sub>
+</p>
 
