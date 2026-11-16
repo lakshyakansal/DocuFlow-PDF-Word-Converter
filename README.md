@@ -438,8 +438,8 @@ Full-stack application development | Python | Flask | Database Management
 
 DocuFlow demonstrates the integration of document-processing libraries, backend application logic, user management, and cloud deployment into a unified web platform.
 
-\<p align="center">   \<strong>📄 DOCUFLOW\</strong>   \<br/>   \<em>Convert. Manage. Simplify.\</em>   \<br/>\<br/>   Built with Python and Flask. \</p>
+<p align="center">   \<strong>📄 DOCUFLOW\</strong>   \<br/>   \<em>Convert. Manage. Simplify.\</em>   \<br/>\<br/>   Built with Python and Flask. \</p>
 
 ---
 
-\<p align="center">   \<sub>© 2026 DocuFlow. All rights reserved.\</sub> \</p>
+<p align="center">   \<sub>© 2026 DocuFlow. All rights reserved.\</sub> \</p>
